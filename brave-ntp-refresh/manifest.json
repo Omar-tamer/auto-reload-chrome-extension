@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Refresh Blank Tab on Launch",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": { "service_worker": "background.js" }
+}
